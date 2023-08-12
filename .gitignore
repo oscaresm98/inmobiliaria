@@ -1,6 +1,7 @@
 /vendor/
 /node_modules/
 /src/
+IniciarServidor.txt
 .env
 .env.local
 .env.development
